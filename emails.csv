@@ -1,0 +1,7 @@
+subject,body,label
+Win money,Click here to claim your prize,spam
+Urgent alert,Verify your bank account now,spam
+Meeting tomorrow,Let’s meet at 10 AM,ham
+Invoice attached,Please find invoice attached,ham
+Reset password,Reset your password immediately,spam
+Team update,Project completed successfully,ham
